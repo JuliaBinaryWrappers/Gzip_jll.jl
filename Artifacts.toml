@@ -1,0 +1,113 @@
+[[Gzip]]
+arch = "i686"
+git-tree-sha1 = "a982c1b7b04338e7c5a60bd51e71690a0ce4cbf6"
+libc = "musl"
+os = "linux"
+
+    [[Gzip.download]]
+    sha256 = "58f4db071498bba03b335493df53afdd19634110dbac590c72c4bb700840602e"
+    url = "https://github.com/JuliaBinaryWrappers/Gzip_jll.jl/releases/download/Gzip-v1.10.0+0/Gzip.v1.10.0.i686-linux-musl.tar.gz"
+[[Gzip]]
+arch = "aarch64"
+git-tree-sha1 = "235da53b6728b4859c67dd844097c008a2d31ea2"
+libc = "musl"
+os = "linux"
+
+    [[Gzip.download]]
+    sha256 = "9be5b9fd7d1b54abbd3e9c735bad36c48ea4fa8247435862ecbc46830fb07784"
+    url = "https://github.com/JuliaBinaryWrappers/Gzip_jll.jl/releases/download/Gzip-v1.10.0+0/Gzip.v1.10.0.aarch64-linux-musl.tar.gz"
+[[Gzip]]
+arch = "i686"
+git-tree-sha1 = "c20d1b05d607cfef9082d248f9edcbe13aae3752"
+os = "windows"
+
+    [[Gzip.download]]
+    sha256 = "3f96bbbf5ffbe6176ec8bc88a9310d2289b77445d8a1244df5d0618ebb53b3f2"
+    url = "https://github.com/JuliaBinaryWrappers/Gzip_jll.jl/releases/download/Gzip-v1.10.0+0/Gzip.v1.10.0.i686-w64-mingw32.tar.gz"
+[[Gzip]]
+arch = "x86_64"
+git-tree-sha1 = "6b41d846e1222ff0731fb2bfb4e90b3632f3a214"
+os = "windows"
+
+    [[Gzip.download]]
+    sha256 = "433d3a284efa3a2c7b6ea05cf8ec0270e93ed443d4f0e2b3f0683d4483ecbd57"
+    url = "https://github.com/JuliaBinaryWrappers/Gzip_jll.jl/releases/download/Gzip-v1.10.0+0/Gzip.v1.10.0.x86_64-w64-mingw32.tar.gz"
+[[Gzip]]
+arch = "armv7l"
+git-tree-sha1 = "fde5cd8d6a713e5c4f6b3a20161a5c9b05274ede"
+libc = "glibc"
+os = "linux"
+
+    [[Gzip.download]]
+    sha256 = "9261f7a838a522a0bf727e4cfb5478e74512523f52ecae7876152a6ac4466bd1"
+    url = "https://github.com/JuliaBinaryWrappers/Gzip_jll.jl/releases/download/Gzip-v1.10.0+0/Gzip.v1.10.0.armv7l-linux-gnueabihf.tar.gz"
+[[Gzip]]
+arch = "armv7l"
+git-tree-sha1 = "f1978ec2fecb679cf25a6838dde5d80a9d76dfbf"
+libc = "musl"
+os = "linux"
+
+    [[Gzip.download]]
+    sha256 = "9b17779609a15348203687c56d5ec59e4f224d58f213c9a659d353388460db41"
+    url = "https://github.com/JuliaBinaryWrappers/Gzip_jll.jl/releases/download/Gzip-v1.10.0+0/Gzip.v1.10.0.armv7l-linux-musleabihf.tar.gz"
+[[Gzip]]
+arch = "i686"
+git-tree-sha1 = "79ff38de310336e699febb7f0429517e93704def"
+libc = "glibc"
+os = "linux"
+
+    [[Gzip.download]]
+    sha256 = "8d7ce2960fd85581455e9e35a1ade3c8896082fd0b9e1536b86e688ab3902088"
+    url = "https://github.com/JuliaBinaryWrappers/Gzip_jll.jl/releases/download/Gzip-v1.10.0+0/Gzip.v1.10.0.i686-linux-gnu.tar.gz"
+[[Gzip]]
+arch = "x86_64"
+git-tree-sha1 = "53a03d4931de89cc4550414c65608e6352365eb2"
+libc = "glibc"
+os = "linux"
+
+    [[Gzip.download]]
+    sha256 = "884db39419e8c3b2247b0b9820f2f6a3c344f3c26bf64c9eb6b0f952d7bffe7d"
+    url = "https://github.com/JuliaBinaryWrappers/Gzip_jll.jl/releases/download/Gzip-v1.10.0+0/Gzip.v1.10.0.x86_64-linux-gnu.tar.gz"
+[[Gzip]]
+arch = "powerpc64le"
+git-tree-sha1 = "e00e434c382b1a57e5a31e8bcb69902034015b75"
+libc = "glibc"
+os = "linux"
+
+    [[Gzip.download]]
+    sha256 = "8fcd141dc79323e4736692c69d8ce8dc5292d0e2e6119c6ec997f502ebb82098"
+    url = "https://github.com/JuliaBinaryWrappers/Gzip_jll.jl/releases/download/Gzip-v1.10.0+0/Gzip.v1.10.0.powerpc64le-linux-gnu.tar.gz"
+[[Gzip]]
+arch = "x86_64"
+git-tree-sha1 = "f6b89913ef37542b6b32e6a9fe50fd6f67b40897"
+os = "macos"
+
+    [[Gzip.download]]
+    sha256 = "13e57ad005820990ffb6212213e43bd3b644f36ba16d3ae9a5cddbe33009f6d9"
+    url = "https://github.com/JuliaBinaryWrappers/Gzip_jll.jl/releases/download/Gzip-v1.10.0+0/Gzip.v1.10.0.x86_64-apple-darwin14.tar.gz"
+[[Gzip]]
+arch = "aarch64"
+git-tree-sha1 = "c8eaca9bd5fc43b50a26791a088b01a7a8ac991c"
+libc = "glibc"
+os = "linux"
+
+    [[Gzip.download]]
+    sha256 = "828a6ff7a3b227ed59e7646b897fb07b6f5f08969516d1f4c0e3b2d56d408cf9"
+    url = "https://github.com/JuliaBinaryWrappers/Gzip_jll.jl/releases/download/Gzip-v1.10.0+0/Gzip.v1.10.0.aarch64-linux-gnu.tar.gz"
+[[Gzip]]
+arch = "x86_64"
+git-tree-sha1 = "9dbb1a23f39659a638eb0b54b5a48f7ecc29d7ec"
+os = "freebsd"
+
+    [[Gzip.download]]
+    sha256 = "4151b7939b116f91e164c77a696de043614d5ef5299811c162f1d91af77f88b4"
+    url = "https://github.com/JuliaBinaryWrappers/Gzip_jll.jl/releases/download/Gzip-v1.10.0+0/Gzip.v1.10.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Gzip]]
+arch = "x86_64"
+git-tree-sha1 = "cdcb21429b1428ede15dbfa6a0cc9c45d566a250"
+libc = "musl"
+os = "linux"
+
+    [[Gzip.download]]
+    sha256 = "58a77a4eebf7dcaf3f1a2006d657c9ffa8476175b3d531b0c74e697d6f9efce8"
+    url = "https://github.com/JuliaBinaryWrappers/Gzip_jll.jl/releases/download/Gzip-v1.10.0+0/Gzip.v1.10.0.x86_64-linux-musl.tar.gz"
